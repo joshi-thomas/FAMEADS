@@ -1051,7 +1051,7 @@ ul {
    ============================================ */
 .page-hero {
   margin-top: var(--navbar-height);
-  padding: 120px 0 120px;
+  padding: 140px 0 200px;
   background: var(--color-off-white);
 /* background-image: url(../images/bg2.png);
 background-repeat: no-repeat;
